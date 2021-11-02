@@ -6,7 +6,7 @@
 
 Result Example:
 
-```json
+```
 {:streams=>
   [{:index=>0,
     :codec_name=>"aac",

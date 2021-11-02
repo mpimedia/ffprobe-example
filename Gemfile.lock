@@ -1,0 +1,15 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    ffprober (1.0)
+      sorbet-runtime
+    sorbet-runtime (0.5.9279)
+
+PLATFORMS
+  x86_64-darwin-20
+
+DEPENDENCIES
+  ffprober (= 1.0)
+
+BUNDLED WITH
+   2.2.24
